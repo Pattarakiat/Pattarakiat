@@ -1,11 +1,5 @@
-### Hello world 👋
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFFFFF,100:86479C&height=300&section=header&text=Hello%20world!&fontSize=90" />
 
-
-
-
-<p aling="center">
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-</p>
 
 - 🌱 I’m currently learning from Datacamp by follow Data Scientist with Python track and Data Science Bootcamp 9 from DataRockie.
 - 👨‍🎓 I believe in longlife learning.
