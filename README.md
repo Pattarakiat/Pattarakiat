@@ -9,6 +9,7 @@
 
 **Certificate**
 - Google Data Analytics Professional Certificate
+- Introduction to Data Studio
 
 
 
