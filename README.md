@@ -12,6 +12,9 @@
 - Introduction to Data Studio
 
 
+**Portfolio**
+- [Looker Studio](https://lookerstudio.google.com/reporting/e0ed938d-5772-4550-a568-5b21f97a959f)
+
 
 
 
