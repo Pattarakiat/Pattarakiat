@@ -6,6 +6,7 @@
 
 - 🌱 I’m currently learning from Datacamp by follow Data Scientist with Python track and Data Science Bootcamp 9 from DataRockie.
 - 👨‍🎓 I believe in longlife learning.
+- 😄 I'm also anime & manga lover
 
 **Certificate**
 - Google Data Analytics Professional Certificate
@@ -30,8 +31,7 @@
 
 
 
-
-
+<img src="https://github.com/Pattarakiat/Pattarakiat/blob/main/ora%20ora%20ora.gif" width="640" height="360">
 
 
 
