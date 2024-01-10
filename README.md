@@ -31,10 +31,6 @@
 
 
 
-<img src="https://github.com/Pattarakiat/Pattarakiat/blob/main/ora%20ora%20ora.gif" width="640" height="360">
-
-
-
 
 <!--
 **Pattarakiat/Pattarakiat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
