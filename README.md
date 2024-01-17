@@ -15,7 +15,7 @@
 
 **Portfolio**
 - [Looker Studio](https://lookerstudio.google.com/reporting/e0ed938d-5772-4550-a568-5b21f97a959f)
-
+- [SQL_Pizza Restaurant](https://replit.com/@PattarakiatPech/SQLPizza-project?v=1#create_table.sql)
 
 
 
@@ -33,19 +33,3 @@
 
 
 
-
-
-<!--
-**Pattarakiat/Pattarakiat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
