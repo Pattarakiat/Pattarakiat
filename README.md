@@ -9,8 +9,8 @@
 - 😄 I'm also anime & manga lover
 
 **Certificate**
-- Google Data Analytics Professional Certificate
-- Introduction to Data Studio
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/KXGNYKH9LXB8)
+- [Introduction to Data Studio](https://analytics.google.com/analytics/academy/certificate/9ZoOaR1CRQq51b4Fv5VgAA)
 
 
 **Portfolio**
