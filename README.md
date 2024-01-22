@@ -15,6 +15,7 @@
 
 **Portfolio**
 - [Looker Studio](https://lookerstudio.google.com/reporting/e0ed938d-5772-4550-a568-5b21f97a959f)
+- [FreeFires vs PUBG Engagement via Facebook](https://public.tableau.com/app/profile/pattarakiat.pechpaow8230/viz/FreeFiresvsPUBGEngagementviaFacebook/FreeFiresvsPUBGDashboard?publish=yes)
 - [SQL_Pizza Restaurant](https://replit.com/@PattarakiatPech/SQLPizza-project?v=1#create_table.sql)
 
 
