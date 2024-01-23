@@ -14,9 +14,11 @@
 
 
 **Portfolio**
-- [Looker Studio](https://lookerstudio.google.com/reporting/e0ed938d-5772-4550-a568-5b21f97a959f)
-- [FreeFires vs PUBG Engagement via Facebook](https://public.tableau.com/app/profile/pattarakiat.pechpaow8230/viz/FreeFiresvsPUBGEngagementviaFacebook/FreeFiresvsPUBGDashboard?publish=yes)
+- [Python: Exploring NYC Public School Test Result Scores Project](https://github.com/Pattarakiat/Python_Projects/tree/main/Exploring%20NYC%20Public%20School%20Test%20Result%20Scores%20Project)
 - [SQL_Pizza Restaurant](https://replit.com/@PattarakiatPech/SQLPizza-project?v=1#create_table.sql)
+- [Looker Studio](https://lookerstudio.google.com/reporting/e0ed938d-5772-4550-a568-5b21f97a959f)
+- [Tableau: FreeFires vs PUBG Engagement via Facebook](https://public.tableau.com/app/profile/pattarakiat.pechpaow8230/viz/FreeFiresvsPUBGEngagementviaFacebook/FreeFiresvsPUBGDashboard?publish=yes)
+
 
 
 
